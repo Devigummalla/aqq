@@ -1,0 +1,12 @@
+# Local development files
+node_modules
+.git
+.github
+.vscode
+
+# Environment files
+.env
+.env.*
+
+# Build artifacts
+dist
